@@ -1,6 +1,7 @@
 .container{
     background-color: #FFCD9E;
     display: flex;
+    height: 430px;
 }
 
 .left{
@@ -12,9 +13,9 @@
 .header{
     font-style: normal;
     font-weight: 700;
-    font-size: 32px;
+    font-size: 34px;
     color: #282828;
-    width: 80%;
+    width: 70%;
 }
 
 .para1{
@@ -32,7 +33,10 @@
     font-size: 18px;
     color: #282828;
 }
+img{
+    height: 400px;
 
+}
 input{
     height: 32px;
     background: #FFFFFF;

@@ -1,5 +1,5 @@
-// import LinkedIn from '../assets/download.png'
-// import Instagram from '../assets/insta.png'
+import LinkedIn from '../assets/download.png'
+import Instagram from '../assets/insta.png'
 import './Footer.css'
 
 const Footer = ()=>{
@@ -19,8 +19,8 @@ const Footer = ()=>{
             <li class="logo-list">
             {/* <i class="fa-brands fa-linkedin-in"></i>
                 <i  class="fa-brands fa-instagram"></i> */}
-                {/* <img src={LinkedIn} className="link" />
-                <img src={Instagram} className="insta"/> */}
+                <img src={LinkedIn} className="link" />
+                <img src={Instagram} className="insta"/>
             </li>
             <li>&nbsp;</li>
             <li>hello@dweep.io</li>
